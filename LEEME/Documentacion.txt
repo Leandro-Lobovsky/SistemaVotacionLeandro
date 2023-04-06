@@ -1,0 +1,15 @@
+-El proyecto lo he subido en mi repositorio github (Leandro-Lobovsky)
+-Proyecto creado para Prueba de diagnostico Desis.
+-Se utilizo HTML para estructurar pagina web.
+-Se utilizo un archivo CSS para dar un estilo simple.
+-La base de datos contiene 3 tablas y algunos insert respectivos inventados.
+-La base de datos esta en .sql.
+-Se utilizo MySQL para el proyecto, importando el archivo sql en la tabla db_votacion.
+-Se agregaron restricciones y validaciones con PHP.
+-El archivo Index.php es la vista principal del sistema de votacion, con una combinacion entre html y php.
+-El archivo registrar.php hace la accion de registrar el boton votar del index.
+-El archivo conexion.php conecta html y php a la base de datos.
+-El archivo validar-form.php se encuentran todas las validaciones respectivas.
+-El archivo select.php es un archivo que finalmente no utilize, en el se encuentra los select de los cbox de Region y Comuna los cuales finalmente agrege en el mismo index.
+
+Por ultimo, no vi la necesidad de agregar aun mas contenido en base de datos, y tampoco utilize JavaScript para este tipo de proyecto, pero si tengo conocimiento.

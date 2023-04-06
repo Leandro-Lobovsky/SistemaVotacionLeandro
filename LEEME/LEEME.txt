@@ -1,0 +1,22 @@
+Nombre: Leandro Lobovsky
+
+Sistema para prueba de diagnostico de Desis.
+
+Pasos para hacer funcionar el proyecto Sistema Votacion:
+
+1. Iniciar MySql y Apache en XAMPP (Para lograr conectar con BD).
+
+2. Dejar la carpeta/proyecto en la carpeta htdocs de XAMPP (deberia estar en C:\xampp\htdocs)
+
+3. Abrir proyecto desde el navegador web ( en mi caso es: localhost/SistemaVotacionLeandro/index.php)
+
+4.La version de PHP utilizada es 7.3.33
+
+5. Puedes encontrar la Base de datos en la carpeta "sql"
+
+6. Se utilizara MySQL, para la Base de Datos debe crearla en phpmyAdmin (http://localhost/phpmyadmin/), con el nombre de " db_votacion ", la base de datos del proyecto
+se puede importar, se encuentra en la carpeta " /SistemaVotacionLeandro/sql/db_votacion.sql" .
+
+7. Con esto realizado, ya se pueden guardar los datos en la base de datos MySQL, los botones estan funcionales, solamente debes interactuar con index.php y agregar datos.
+
+Con esto el proyecto deberia estar funcionando correctamente.
